@@ -18,8 +18,6 @@ Clone the project
   git clone git@github.com:Mukesh-50/HybridFramework2024.git
   
 Go to the project directory
-
-  cd HybridFramework2024
   
 Execute the test
 
