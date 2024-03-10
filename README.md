@@ -1,6 +1,6 @@
 - Access Repo ?
-About Framework
-Use this Framework to write your automated test using Selenium
+-About Framework
+-Use this Framework to write your automated test using Selenium
 
 -Preconditions
 Java should be installed (Recommended JDK11)
